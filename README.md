@@ -1,1 +1,1 @@
-# mean-value-theorem
+# Tutorial for Mean Value Theorem
